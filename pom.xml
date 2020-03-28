@@ -54,9 +54,9 @@
         </dependency>
     </dependencies>
 
-    <modules>
-        <module>../practice-spring</module>
-    </modules>
+    <!--<modules>-->
+        <!--<module>../seckill</module>-->
+    <!--</modules>-->
 
 
 </project>
