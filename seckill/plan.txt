@@ -1,3 +1,6 @@
+
+https://www.jianshu.com/p/abc0099743d2
+
 2020-03-27 任务：
 1. 搭建基础架构：Spring-Boot对接Mysql(主从)、Redis(主从、哨兵)、Nginx、RokectMQ；
 
@@ -6,7 +9,7 @@
 2. 配置Redis主从、哨兵（Redis相关及面试题相关）
 
 2020-04-30 任务：
-1. 配置Nginx（Nginx相关及面试题相关）
+1. 配置Nginx（Nginx相关及面试题相关）配置负载均衡，将请求分发给不同的spring-boot
 2. 配置RokectMQ（RokectMQ相关及面试题相关）
 
 2020-03-31 任务：
