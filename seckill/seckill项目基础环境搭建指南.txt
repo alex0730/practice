@@ -71,6 +71,9 @@ CentOS 7.0版本的防火墙，默认使用的是firewall，与之前的版本�
 
 linux安装redis:
 https://www.cnblogs.com/rslai/p/8249812.html
+vim /etc/redis.conf
+
+
 
 linux下安装配置rocketmq
 https://www.cnblogs.com/fuyuanming/p/11558425.html
@@ -112,17 +115,14 @@ java.lang.Exception: Method contextLoads() should be public
     <version>1.3.2</version>
 </dependency>
 
+idea文件夹分层目录：去掉如图所示项目设置中compat middle packages中的√就可以了。如果是不同版本，这里可能是 Hide Empty Middle Packages而不是compat middle packages。
 
 
+No qualifying bean of type 'org.springframework.data.redis.core.RedisTemplate<java.lang.String, java.lang.Object>'
+https://blog.csdn.net/zhaoheng314/article/details/81564166
 
-
-
-
-
-
-
-
-
+@SpringBootApplication
+//@ComponentScan("com.wyy.seckill.utils.redis")
 
 
 
